@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.full_wrap{
+    width: 100%;
+}
+.main_wrap{
+    width: 1140px;
+    margin: 0 auto;
+}
+.banner_section{
+    background: url(../images/banner.jpg);
+    padding: 210px 0px 240px;
+}
+.banner_txt{
+    text-align: center;
+}
+.banner_txt hr{
+    width: 600px;
+    margin: 0 auto;
+}
+.box{
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.box i{
+    font-size: 70px;
+    background: #48baff;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    line-height: 100px;
+}

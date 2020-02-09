@@ -1,0 +1,21 @@
+*{ float: left;}
+
+
+.flag_1{
+	height: 600px;
+	width: 300px;
+	background: black;
+}
+
+
+.flag_2{
+	height: 600px;
+	width: 300px;
+	background: yellow;;
+}
+
+.flag_3{
+	height: 600px;
+	width: 300px;
+	background: red;
+}

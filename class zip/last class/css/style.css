@@ -1,0 +1,20 @@
+.navbar-nav .nav-item .nav-link{
+    color: #000;
+}
+.gly{
+    position: relative;
+}
+.gly_ol{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgba(21, 164, 250, 0.74);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    text-align: center;
+    transition: all linear .3s;
+}
+.gly:hover .gly_ol{
+      opacity: 1;
+}
