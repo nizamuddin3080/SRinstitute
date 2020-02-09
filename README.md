@@ -1,2 +1,2 @@
 # SRinstitute
-course file and Home and assignment in this repository 
+course file and Homework and assignments in this repository
